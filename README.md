@@ -1,5 +1,5 @@
 # Stopwatch_demo
-## 📖 Task 2 - Stopwatch and Timer
+## 📖 GIT PROJECT - Stopwatch and Timer
 
 <br><b>Stopwatch project</b>, designed as a part of internship  Web Development and Designing </b>,is a dynamic website which can be used to perform operations like:
 <ul>
@@ -22,8 +22,3 @@ Front-End
 
 <br>
 
-
-
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
