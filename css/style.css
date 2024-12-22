@@ -9,7 +9,7 @@
     width: 100vw;
     max-width: 800px;
     border-radius: 10px;
-    color: #fff;
+    color:black;
 
 }
 .type{
@@ -17,7 +17,7 @@
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
-    color: #ffffff62;
+    color:black;
 }
 
 .header {
@@ -28,7 +28,7 @@
 h1 {
     font-size: 10px;
     font-weight: 500;
-    color: #ffffff62;
+    color: black;
     text-transform: uppercase;
 
 }
@@ -59,7 +59,7 @@ span {
 .digits {
     text-align: center;
     font-size: 50px;
-    color: #fff;
+    color: black;
     font-family: 'Orbitron', sans-serif;
 }
 
@@ -89,7 +89,7 @@ span {
 .btn {
     padding: 10px 20px;
     border-radius: 5px;
-    color: #fff;
+    color: black;
     border: none;
     font-size: 12px;
     font-weight: 500;
@@ -129,7 +129,7 @@ span {
 }
 
 .laps .lap.active p{
-    color: #9af545;
+    color: rgba(56, 99, 207, 0.333);
     font-weight: 800;
 }
 
@@ -162,7 +162,7 @@ span {
 
 .number {
     font-size: 50px;
-    color: #fffcd6;
+    color: #24207d;
     font-family: 'Orbitron', sans-serif;
 }
 
